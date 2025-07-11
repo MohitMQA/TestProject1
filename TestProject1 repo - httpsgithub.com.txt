@@ -1,7 +1,0 @@
-TestProject1 repo - https://github.com/MohitMQA/TestProject1.git
-
-token: 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
-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
-
-mohitsco30@gmail.com
-Hello@03_*+
