@@ -1,6 +1,6 @@
 package testpackage1;
 
-public class LogicalOper1 {
+public class LogicalOper2 {
 
 	public static void main(String[] args) {
 
