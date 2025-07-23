@@ -6,7 +6,7 @@ public class Array5Ex {
 
 	public static void main(String[] args) {
 
-		int b = a[1]; // assigning the value
+		int b = a[1]; // assigning the value, 2
 
 		for (int i = 0; i < a.length; i++) {
 			if (b > a[i]) {
